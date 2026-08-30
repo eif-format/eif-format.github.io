@@ -1,0 +1,12 @@
+Evidence Integrity Framework (EIF)
+Copyright 2026 NeuralWeaves Technology Private Limited and the EIF contributors
+
+This product includes software developed by NeuralWeaves Technology Private
+Limited and contributors to the eif-format project.
+
+The EIF Format Specification and this reference implementation are published
+under the Apache License, Version 2.0, which includes an express grant of
+patent rights from contributors to users. See LICENSE for the full terms.
+
+Portions of the Merkle tree construction follow the approach described in
+RFC 6962 (Certificate Transparency), IETF, 2013.
